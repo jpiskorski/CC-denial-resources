@@ -11,14 +11,15 @@ The archive contains:
 
 1. Europe Media Monitor-derived text snippet corpus
 
-FILE: EMM_CLIMATE_CHANGE_CORPUS_version_1.0.txt
+   FILE: EMM_CLIMATE_CHANGE_CORPUS_version_1.0.txt
 
 2. Cleaned version of the corpus described in: 
-T. G. Coan, C. Boussalis, J. Cook, M. O. Nanko, Computer-assisted classification of
-contrarian claims about climate change, Scientific Reports 11 (2021).
-URL: https://www.nature.com/articles/s41598-021-01714-4
+   
+   T. G. Coan, C. Boussalis, J. Cook, M. O. Nanko, Computer-assisted classification of
+   contrarian claims about climate change, Scientific Reports 11 (2021).
+   URL: https://www.nature.com/articles/s41598-021-01714-4
 
-FILE1: 4C_test_CLEANED.txt
-FILE2: 4C_training_CLEANED.txt
+   FILE1: 4C_test_CLEANED.txt
+   FILE2: 4C_training_CLEANED.txt
 
 
