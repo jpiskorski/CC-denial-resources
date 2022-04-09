@@ -2,8 +2,8 @@
 This repository contains some resources related to climate change denial text classification
 mentioned in the following paper:
 
-Exploring Data Augmentation for Classification of Climate Change Denial: Preliminary Study.
-Jakub Piskorski, Nikolaos Nikolaidis, Nicolas Stefanovitch, Bonka Kotseva, Irene Vianini, Sopho Kharazi and Jens Linge
+Exploring Data Augmentation for Classification of Climate Change Denial: Preliminary Study.\n
+Jakub Piskorski, Nikolaos Nikolaidis, Nicolas Stefanovitch, Bonka Kotseva, Irene Vianini, Sopho Kharazi and Jens Linge\n
 In Proceedings of Text2Story 2022: Fifth International Workshop on Narrative Extraction from Texts held in conjunction with the 44th European Conference on Information Retrieval, Stavanger, Norway, 2022.
 
 The archive contains:
