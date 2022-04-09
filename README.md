@@ -2,8 +2,10 @@
 This repository contains some resources related to climate change denial text classification
 mentioned in the following paper:
 
-Exploring Data Augmentation for Classification of Climate Change Denial: Preliminary Study.\n
-Jakub Piskorski, Nikolaos Nikolaidis, Nicolas Stefanovitch, Bonka Kotseva, Irene Vianini, Sopho Kharazi and Jens Linge\n
+Exploring Data Augmentation for Classification of Climate Change Denial: Preliminary Study.
+
+Jakub Piskorski, Nikolaos Nikolaidis, Nicolas Stefanovitch, Bonka Kotseva, Irene Vianini, Sopho Kharazi and Jens Linge<\newline>
+
 In Proceedings of Text2Story 2022: Fifth International Workshop on Narrative Extraction from Texts held in conjunction with the 44th European Conference on Information Retrieval, Stavanger, Norway, 2022.
 
 The archive contains:
@@ -15,11 +17,15 @@ The archive contains:
 2. Cleaned version of the corpus described in: 
    
    Computer-assisted classification of contrarian claims about climate change.
+
    T. G. Coan, C. Boussalis, J. Cook, M. O. Nanko,
+   
    Scientific Reports 11 (2021).
+   
    URL: https://www.nature.com/articles/s41598-021-01714-4
 
    FILE1: 4C_test_CLEANED.txt
+   
    FILE2: 4C_training_CLEANED.txt
 
 
